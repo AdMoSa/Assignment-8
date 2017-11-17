@@ -78,7 +78,7 @@ char menu()
   cout<<"Menu \n";
   cout<<"1.Add a item : \n";
   cout<<"2.Delete a item : \n";
-  cout<<"3.Show athe list : \n";
+  cout<<"3.Show the list : \n";
   cout<<"4.Exit. \n";
   cin>>ch;
   return ch;
